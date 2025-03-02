@@ -12,6 +12,10 @@ Bilspill med fokus på implementering av Binary I/O, egendefinerte exceptions og
 ***HelloController***: En controller-klasse for JavaFX-applikasjonen.  
 ***UgyldigAntSekundException og UgyldigBrukernavnException***: Egendefinerte unntaksklasser for validering.  
 
+## Visning
+![CarRacingGameVisning](gif/CarRacingGame.gif)
+
+
 ## Videre beskrivelse: 
 Programmet "Car Racing Game" er et bilspill laget med Java og JavaFX. Her er en beskrivelse av hovedfunksjonene i programmet:
 
@@ -33,3 +37,5 @@ En Timeline brukes til å animere spillet ved å oppdatere posisjonen til hindri
 Poengene lagres og vises for de fem beste spillerne.
 
 Hovedklassen CarRacinGame inneholder metoder for å starte spillet, håndtere brukerinput, oppdatere GUI, og sjekke spillstatus.
+
+
