@@ -13,7 +13,7 @@ Bilspill med fokus på implementering av Binary I/O, egendefinerte exceptions og
 ***UgyldigAntSekundException og UgyldigBrukernavnException***: Egendefinerte unntaksklasser for validering.  
 
 ## Visning
-![CarRacingGameVisning](gif/CarRacingGame.gif)
+![CarRacingGameVisning](./gif/CarRacingGame.gif)
 
 
 ## Videre beskrivelse: 
